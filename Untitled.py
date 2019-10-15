@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[12]:
-import IPython 
+import IPython
 
 get_ipython().run_line_magic('matplotlib', 'inline')
 import numpy as np
