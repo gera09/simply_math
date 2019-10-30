@@ -6,3 +6,4 @@ z = x * 0.95
 plt.plot(x, np.cos(z))
 print(x, z)
 
+
